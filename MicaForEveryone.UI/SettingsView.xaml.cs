@@ -25,6 +25,7 @@ namespace MicaForEveryone.UI
 
         internal Contributor[] Translators { get; } =
         {
+            new Contributor("Merhab Poladov", "https://github.com/thepoladov13", "az"),
             new Contributor("uDEV2019", "https://github.com/uDEV2019", "de"),
             new Contributor("Amaro Martínez", "https://github.com/xoascf", "es"),
             new Contributor("SaiyajinK", "https://github.com/SaiyajinK", "fr"),
@@ -40,12 +41,15 @@ namespace MicaForEveryone.UI
             new Contributor("Douglas Vianna", "https://github.com/dgsmiley18", "pt-br"),
             new Contributor("Danik2343", "https://github.com/Danik2343", "ru"),
             new Contributor("krlvm", "https://github.com/krlvm", "ru"),
+            new Contributor("bzzrak", "https://github.com/bzzrak", "sr"),
             new Contributor("Meriç Bağlayan", "https://github.com/baglayan", "tr"),
             new Contributor("Phyan", "https://github.com/Phyan", "uk-ua"),
             new Contributor("lowl1f3", "https://github.com/lowl1f3", "uk-ua"),
+            new Contributor("ChefKozaki", "https://github.com/chefkozaki", "vi"),
             new Contributor("AndromedaMelody", "https://github.com/AndromedaMelody", "zh-Hans"),
             new Contributor("FrzMtrsprt", "https://github.com/FrzMtrsprt", "zh-Hans"),
             new Contributor("MW1Z", "https://github.com/MW1Z", "zh-Hant"),
+            new Contributor("宥叡", "https://github.com/jay900604", "zh-Hant"),
         };
 
         private void ListView_Loaded(object sender, RoutedEventArgs args)
