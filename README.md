@@ -1,14 +1,3 @@
-> # Be Iranian's voice!
-> 
-> Right now as you read this, the government is killing hundreds of protestors in Iran.
-> People are seeking freedom while they have highly restricted access to Internet and only state-owned media is allowed to operate.
-> 
-> * In July 1999 they attacked students nightly in dorm because they protested for freedom of newspapers.
-> * In December 2019 - January 2020 people were protesting for increase of prices and then the government killed more than 1500 of them. We experienced full Internet shutdown during that time.
-> * In September 2022 the <!--morality--> police killed an innocent girl and created <!--rise--> a wave of unhappy people, and since then people are fighting. In these days we hear a lot about the arrest of innocent people and protestors, and even <!--the--> people who did nothing.
-> 
-> Jadi Mirmirani, an Iranian open-source activist and Mohsen Tahmasbi, an Iranian security researcher are among the arrested people in October 2022.
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/103479527" width="128px" height="128px" alt="Mica For Everyone, two blue squares logo">
 </p>
@@ -48,9 +37,11 @@ Translations into versions for other languages are welcome! Please read the [tra
 
 | Key     | Name                  | Translator                                                                                         |
 |---------|:----------------------|:---------------------------------------------------------------------------------------------------|
-| az-Latn | Azerbaijian (Latin)   | [thepoladov13](https://github.com/thepoladov13)
+| az-Latn | Azerbaijian (Latin)   | [thepoladov13](https://github.com/thepoladov13)                                                    |
+| cs      | Czech                 | [maggster165](https://github.com/maggster165)                                                      |
 | de      | German                | [uDEV2019](https://github.com/uDEV2019)                                                            |
 | es      | Spanish               | [Amaro Martínez](https://github.com/xoascf)                                                        |
+| el      | Greek                 | [Lefteris T.](https://github.com/trlef19)                                                          |
 | fr      | French                | [SaiyajinK](https://github.com/SaiyajinK)                                                          |
 | hu      | Hungarian             | [Zan1456](https://github.com/Zan1456)                                                              |
 | id      | Indonesian            | [seanardhana](https://github.com/seanardhana), [GID0317](https://github.com/GID0317)               |
@@ -60,12 +51,13 @@ Translations into versions for other languages are welcome! Please read the [tra
 | nl      | Dutch                 | [toineenzo](https://github.com/toineenzo)                                                          |
 | pl      | Polish                | [Piteriuz](https://github.com/Piteriuz)                                                            |
 | pt-br   | Brazilian Portuguese  | [Douglas Vianna](https://github.com/dgsmiley18)                                                    |
+| ro      | Romanian              | [dabardibid](https://github.com/DavidJoacaRo)                                                      |
 | ru      | Russian               | [Danik2343](https://github.com/Danik2343), [krlvm](https://github.com/krlvm)                       |
 | sr      | Serbian               | [bzzrak](https://github.com/bzzrak)                                                                |
 | tr      | Turkish               | [Meriç Bağlayan](https://github.com/baglayan)                                                      |
 | uk-ua   | Ukrainian             | [Phyan](https://github.com/Phyan), [lowl1f3](https://github.com/lowl1f3)                           |
 | vi      | Vietnamese            | [chefkozaki](https://github.com/chefkozaki)                                                        |
-| zh-Hans | Chinese (Simplified)  | [AndromedaMelody](https://github.com/AndromedaMelody), [FrzMtrsprt](https://github.com/FrzMtrsprt) |
+| zh-Hans | Chinese (Simplified)  | [AndromedaMelody](https://github.com/AndromedaMelody), [FrzMtrsprt](https://github.com/FrzMtrsprt), [ritxsen](https://github.com/ritxsen) |
 | zh-Hant | Chinese (Traditional) | [MW1Z](https://github.com/MW1Z), [jay900604](https://github.com/jay900604)                         |
  
 ## 🖊️ Contributing
